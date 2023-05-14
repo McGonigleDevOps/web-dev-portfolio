@@ -1,6 +1,6 @@
 # Patrick McGonigle | Developer Edition
 
-<img src="https://resources.mcgonigle.studio/images/avatar.png" width="200" height="150">
+<img src="https://resources.mcgonigle.studio/images/avatar.png" width="200">
 
 
 # Hi!

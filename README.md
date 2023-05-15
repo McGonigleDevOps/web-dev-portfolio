@@ -21,7 +21,7 @@ I'm Patrick McGonigle, an Independent Full Stack Web Developer with 10+ years of
     * Developed and maintained web applications using a variety of technologies
     * Worked with clients to gather requirements and deliver high-quality solutions
     * Successfully launched several projects on time and within budget
-* **IT & Application Support Engineer**
+* **Desktop & Application Support Engineer**
     * Provided technical support to users of computer systems and software
     * Resolved hardware and software issues
     * Managed user accounts and permissions

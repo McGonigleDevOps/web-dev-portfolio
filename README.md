@@ -31,11 +31,11 @@ I'm Patrick McGonigle, an Independent Full Stack Web Developer with 10+ years of
 
 * **CompTIA A+**
     * Stanmore College
-    * [View Certificate](https://resources.mcgonigle.studio/files/certificates/Patrick%20McGonigle%20-%20CompTIA%20A+%20certificate.pdf)
+    * COMP001020181544 [View Certificate](https://resources.mcgonigle.studio/files/certificates/CompTIA_A+_certificate.pdf)
 
 * **ITIL® Foundation Certificate in IT Service Management**
     * JATO Dynamics
-    * Certificate No: GR750480155PM
+    * GR750480155PM [View Certificate](https://resources.mcgonigle.studio/files/certificates/Patrick%20McGonigle%20-%20ITIL%20Foundation%202018%20e-Cert.pdf)
 
 <!-- ## Projects
 

@@ -15,7 +15,7 @@ I'm Patrick McGonigle, an Independent Full Stack Web Developer with 10+ years of
 * **DevOps:** Docker, Kubernetes, AWS, GCP
 * **Other:** Git, GitHub, Jira, Confluence, Windows, Linux
 
-## Experience
+## Experience 
 
 * **Independent Full Stack Web Developer**
     * Developed and maintained web applications using a variety of technologies
@@ -27,7 +27,7 @@ I'm Patrick McGonigle, an Independent Full Stack Web Developer with 10+ years of
     * Managed user accounts and permissions
     * Conducted training on new software and systems
 
-## Education
+## Education :mortar_board:
 
 * **CompTIA A+**
     * Stanmore College
@@ -43,7 +43,7 @@ I'm Patrick McGonigle, an Independent Full Stack Web Developer with 10+ years of
 * [Project Name](https://github.com/YourUserName/ProjectName)
 * [Project Name](https://github.com/YourUserName/ProjectName) -->
 
-## Contact
+## Contact :speech_balloon:
 
 * patrick@mcgonigle.studio
 * https://www.linkedin.com/in/mcgonigledev/

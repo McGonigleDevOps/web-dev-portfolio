@@ -3,7 +3,7 @@
 <img src="https://resources.mcgonigle.studio/images/me.jpg" width="200">
 
 
-# Hi!
+# Hi! :wave:
 
 I'm Patrick McGonigle, an Independent Full Stack Web Developer with 10+ years of experience in IT & Application Support. I'm passionate about technology and web development and I'm always looking for new challenges.
 
@@ -13,7 +13,7 @@ I'm Patrick McGonigle, an Independent Full Stack Web Developer with 10+ years of
 * **Back-end:** Python, Java, PHP, Node
 * **Databases:** MySQL, MSSQL, MongoDB
 * **DevOps:** Docker, Kubernetes, AWS, GCP
-* **Other:** Git, GitHub, Jira, Confluence
+* **Other:** Git, GitHub, Jira, Confluence, Windows, Linux
 
 ## Experience
 

@@ -43,7 +43,7 @@ I'm Patrick McGonigle, an Independent Full Stack Web Developer with 10+ years of
 * [Project Name](https://github.com/YourUserName/ProjectName)
 * [Project Name](https://github.com/YourUserName/ProjectName) -->
 
-## Contact :speech_balloon:
+## Contact :mega:
 
 * patrick@mcgonigle.studio
 * https://www.linkedin.com/in/mcgonigledev/
